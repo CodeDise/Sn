@@ -1,0 +1,6 @@
+{
+  "name": "TeleConcierge — AI Support Telegram Bot Studio",
+  "description": "Full-stack AI Customer Support Telegram Bot simulator, multi-section admin workbench, OxaPay/FanPay order flow, human handover system, and production Python exporter for Render & Railway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
